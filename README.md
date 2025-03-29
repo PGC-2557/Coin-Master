@@ -1,6 +1,6 @@
 # Coin-Master
 Course Assigment: Game Development in Unity 2022, create your own game using the engine.  
-Coin-Master: Coin collecting game in a 3D enviroment, achieve the highest score while avoiding penalty-coins.  
+Coin-Master: Coin collecting game in a 3D enviroment, achieve the highest score while avoiding penalty assets.  
 Development includes scripting, design, animations and asset management.  
 Key Features:  
 Controls: Walk/Sprint(Hold)/Jump, Mouse Look, Interact, Pause-Menu, How-To-Play.  
@@ -22,7 +22,7 @@ Development:
 ![image](https://github.com/user-attachments/assets/3a00104d-274d-46e4-a760-22981bcd177a)
 
 In-game:  
-<p align="center"> ![unknown_2025 03 29-14 13](https://github.com/user-attachments/assets/a514af33-8f6e-41d5-a7e1-51b9e6e75e56) </p>
+![unknown_2025 03 29-14 13](https://github.com/user-attachments/assets/a514af33-8f6e-41d5-a7e1-51b9e6e75e56)
 ![image](https://github.com/user-attachments/assets/6549ebf2-04c2-43ef-a53c-d1e202d432dc)
 ![image](https://github.com/user-attachments/assets/442aa45b-ff14-4668-b8dc-fefdef479afa)
 ![image](https://github.com/user-attachments/assets/7f1a6d19-4966-4c55-a562-ccae82eba738)
