@@ -16,12 +16,12 @@ Main menu:
 4) Exit to windows.
 
 **Screenshots**
-Development:
+Development:  
 ![image](https://github.com/user-attachments/assets/64cc1b27-367f-4214-9e25-c0f3a4196473)
 ![image](https://github.com/user-attachments/assets/f5d46cce-a49b-4255-a027-45799d5cc036)
 ![image](https://github.com/user-attachments/assets/3a00104d-274d-46e4-a760-22981bcd177a)
 
-In-game:
+In-game:  
 ![unknown_2025 03 29-14 13](https://github.com/user-attachments/assets/a514af33-8f6e-41d5-a7e1-51b9e6e75e56)
 ![image](https://github.com/user-attachments/assets/6549ebf2-04c2-43ef-a53c-d1e202d432dc)
 ![image](https://github.com/user-attachments/assets/442aa45b-ff14-4668-b8dc-fefdef479afa)
